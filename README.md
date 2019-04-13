@@ -9,7 +9,9 @@
     works as a real estate agent. So, he uses Gale Shapley algorithm to rent the houses to satisfy
     both houseowners and tenants. 
     
-    Coding details:
+Coding details:
+
+
     1. Number of tenants is equal to the number of houses. Each houseowner has only one
     house so that while tenants are sorting the houses it means they are sorting the
     houseowners.
