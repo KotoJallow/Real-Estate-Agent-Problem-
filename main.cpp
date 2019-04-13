@@ -2,8 +2,8 @@
 #include "matcher.h"
 
 int main(){
-	Matcher evsahibi("..\\ornek2\\evsahibitercihi.txt");
-	Matcher kiraci("..\\ornek2\\kiracitercihi.txt");
+	Matcher evsahibi("evsahibitercihi.txt");
+	Matcher kiraci("kiracitercihi.txt");
 
 	kiraci.stableMatch(evsahibi);
 
